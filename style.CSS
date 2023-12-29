@@ -1,0 +1,24 @@
+.jumbotron {
+background-image: url("assets/wisata\ alam\ sleman/kali kuning.jpg");
+background-attachment: fixed;
+color: white;
+background-size: cover;
+background-position: 0-50px;
+height: 450px;
+padding-top: 5rem;
+text-shadow: 100px;
+}
+ 
+section{
+    padding-top: 5rem;
+}
+#galeri{
+    background-image: url('img/galeri.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+#Kategori{
+    background-image: url('img/Kategori.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
